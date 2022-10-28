@@ -46,10 +46,23 @@ const items = [
 ]
 
 module.exports = () => (
-  <div>
-    <br />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    <div>
-  <br />
+  <div id="term"> 
+    <div id="card">
+      <br />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀   <Text>Hi!👾 My name is Syuto Niimi. </Text>
+      <br />
+    </div>
+    <div id="ascii">
+      <br />
+      <Text> ♡ ∩∩          /\___/\ </Text>
+      <br />
+      <Text>（„• ֊ •„)♡   ꒰ ˶• ༝ - ˶꒱  </Text>
+      <br />
+      <Text>               ./づ~🍨 </Text>
+      <br />
+    </div>⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    <div id="profile">
+      <br />
       <Text>I’m a vanila developer.</Text>
       <br />
       <Text>Like: cute, keyboard, art.</Text>
