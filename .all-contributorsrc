@@ -1,0 +1,23 @@
+{
+  "projectName": "ooitanojohn",
+  "projectOwner": "ooitanojohn",
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ooitanojohn",
+      "name": "ooitanojohn",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4002137?v=4",
+      "profile": "http://ooitanojohn.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "test",
+        "infra"
+      ]
+    }
+  ]
+}
